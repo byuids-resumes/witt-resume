@@ -15,7 +15,7 @@ title: Samuel Witt Resume
 
 ## Education
 
-`Anticipated Apr 2023`
+`Anticipated April 2023`
 **Brigham Young University - Idaho**, Rexburg, Idaho
 
 -  3.8 GPA
