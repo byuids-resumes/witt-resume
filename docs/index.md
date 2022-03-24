@@ -3,9 +3,7 @@ layout: cv
 title: Samuel Witt Resume
 ---
 
-# Brigham Young
-
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Samuel Witt
 
 <div id="webaddress">
     <a href="wit19011@byui.edu">wit19011@byui.edu</a> |
