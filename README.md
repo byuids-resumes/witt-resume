@@ -1,10 +1,12 @@
 # md-resume
 
+## Test
+
 A resume maintained in plain text and rendered to HTML and PDF using CSS.
 
 For more details, see the [markdown-csv project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
 
-***
+---
 
 ## Customization
 
@@ -31,7 +33,7 @@ To transform your plain text resume into a beautiful and shareable HTML page, yo
 
 ![](docs_setup.png)
 
-3. Head to *yourusername*.github.io/mdresume to see your resume live.
+3. Head to _yourusername_.github.io/mdresume to see your resume live.
 
 Any change you want to make to your CV from then on would have to be done in the `docs` folder and will be immediately rendered by Github Pages.
 
@@ -39,10 +41,11 @@ Any change you want to make to your CV from then on would have to be done in the
 
 The included CSS will render your CV in two styles:
 s
+
 1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
+   template](https://github.com/kjhealy/kjh-vita).
 2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+   right aligned.
 
 To change the default style, simply change the variable in the
 `_config.yml` file.
