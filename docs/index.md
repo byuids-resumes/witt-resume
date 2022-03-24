@@ -1,89 +1,62 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Samuel Witt Resume
 ---
+
 # Brigham Young
+
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+    <a href="wit19011@byui.edu">wit19011@byui.edu</a> |
+    <a href="www.linkedin.com/in/samuel-witt-valiant">LinkedIn</a> |
+    <a href="https://github.com/ValiantWolf">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Anticipated Apr 2023`
+**Brigham Young University - Idaho**, Rexburg, Idaho
 
-- Full academic scholarship with 4.0 GPA
+-  3.8 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Work Experience
 
-- 4.0 Major GPA
+### Teaching Assistant
 
+`Feb 2021 - Present`
+**Brigham Young University - Idaho**, Rexburg, Idaho
 
-## Related Experience
+-  Increased level of student understanding of back-end web-development concepts such as Node.js, Express, EJS, and MVC architecture
+-  Developed course materials for professor used in instruction; PowerPoint, and websites, utilizing JavaScript, HTML and CSS
+-  Reduced workload of professor by arranging and grading students' finished projects and assignments in a timely manner
 
-### Internships
+### Blind Installer Assistant
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Sep 2019 - Dec 2019`
+**Blind Source**, Boise, Idaho
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+-  Tracked daily appointments and loaded trucks accordingly to prevent any product damage and easy unloading
+-  Organized products in warehouse leading to an increase efficiency of loading preparation following morning
+-  Collected and handled installation payments returning to office without anything being misplaced
 
-### Data Science Lead
+### Salesperson
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`May 2017 - Aug 2017`
+**Joys Boys Shaved Ice**, Boise, Idaho
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+-  Formed positive customer relations by showing kindness and patience while ordering leading to returning customers
+-  Entrusted with making syrup for each other location making sure recipe was followed closely to prevent any product loss
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+## Volunteer Experience
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Full-Time Volunteer
 
-### Data Science Consulting Team
+`Sep 2017 - Sep 2019`
+**The Church of Jesus Christ of Latter-day Saints**, Orlando, Florida
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+-  Developed ability to communicate openly with diverse groups in varying socioeconomic situations using empathy, compassion, and active listening
+-  Designed a spreadsheet to track over 100 vehicles car mileage used by volunteers saving time and resources
+-  Lead a group of 20 volunteers, planning events for training to be held and organizing respective areas and assignments
